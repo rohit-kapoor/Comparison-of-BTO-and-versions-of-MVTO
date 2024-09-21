@@ -1,4 +1,7 @@
-First navigate to the file where source code is present:
+This repository contains implementation of the Basic Time Stamp Ordering Algorithm and the variants of Multi-version Time stamp ordering algorithms. The comprehensive comparison of the same is done in the report[https://github.com/rohit-kapoor/Comparison-of-BTO-and-versions-of-MVTO/blob/main/BTO_versions_of_mvto.pdf].
+
+
+In order to execute the code. First navigate to the file where source code is present:
 
 Compilation commands:
 
